@@ -65,7 +65,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
-            android:text="Student No     : 2021t01255"
+            android:text="Student No     : 2021t01253"
             android:textColor="#333F3E"
             android:layout_marginStart="-52sp"
             android:textSize="18dp" />
